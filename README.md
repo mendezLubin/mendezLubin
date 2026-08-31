@@ -14,7 +14,7 @@
 
 <p>I am an Associate Banker at JPMorgan Chase, with a background in Multimedia Engineering and a strong interest in transitioning into a full-stack software development role.
 
-I have hands-on experience building web applications using HTML, CSS, JavaScript, and React, and I am currently expanding my skills in backend development with Node.js.</p>
+I have hands-on experience building full-stack web applications using Java, Spring Boot, SQL, PostgreSQL, HTML, CSS, JavaScript, and React. I use Git and GitHub for version control and have a background in digital design using Figma, Adobe Illustrator, and Adobe Photoshop.</p>
 
 <ul>
   <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/" target="_blank" rel="noopener noreferrer">CESUN University</a></li>
