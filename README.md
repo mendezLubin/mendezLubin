@@ -19,7 +19,7 @@ I have hands-on experience building full-stack web applications using Java, Spri
 <ul>
   <li>Multimedia Engineering at <a href="https://www.cesun.edu.mx/" target="_blank" rel="noopener noreferrer">CESUN University</a></li>
   <li>Completed a Front-End Developer Certificate Program at <a href="https://sdcce.edu/" target="_blank" rel="noopener noreferrer">SDCCE</a></li>
-  <li>Technical skills: HTML, CSS, JavaScript, React, Git, GitHub, Node.js (learning), SQL</li>
+  <li>Technical skills: HTML, CSS, JavaScript, React, Figma, Git, GitHub, Java, Spring Boot, SQL, PostgreSQL</li>
 </ul>
 
 <p>I am passionate about building software and constantly improving as a developer.</p>
